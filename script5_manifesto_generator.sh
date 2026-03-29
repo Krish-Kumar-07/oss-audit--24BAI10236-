@@ -63,7 +63,7 @@ echo "--------------------------------------------"
 echo ""
 
 # --- Get current date in a readable format ---
-DATE=28-03-2026
+DATE=30-03-2026
 
 # --- Get the username for personalisation ---
 USER_ID="Krish-Kumar-07"
